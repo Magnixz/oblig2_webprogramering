@@ -6,7 +6,7 @@ Github brukernavn: Magnixz
 
 Github repo url: https://github.com/Magnixz/oblig2_webprogramering
 
-URL til heroku app: 
+URL til Heroku app: 
 
 Fullt navn: Magnus Evenstad
 
